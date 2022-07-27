@@ -1,0 +1,18 @@
+body {
+    background-color: #faebd6;
+    line-height: 200%;
+}
+
+h1 {
+    color: #ff0000;
+}
+
+p {
+    color: #a42423;
+    font-size: 1.5em;
+}
+
+div {
+    color: #00008f;
+    font-size: 1.5em;
+}
